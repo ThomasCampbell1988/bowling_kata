@@ -11,3 +11,7 @@ Have npm installed and accessible from your terminal / command line. If `nvm --v
 From the root of the project run `npm install` or `npm i`. This will bring in mocha and chai, whihc are required to run the tests.
 
 After that run `npm test` or `npm t` to run the unit tests.
+
+## YouTube Video
+
+https://www.youtube.com/watch?v=pKygogHc8LM
