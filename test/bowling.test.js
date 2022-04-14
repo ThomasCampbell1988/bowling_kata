@@ -73,7 +73,7 @@ describe("Scoring Bowling", function() {
     assert.equal(result, expected);
   });
 
-  it("Spare in final frame counts bonus throw", function() {
+  it("Strike in final frame counts bonus throws", function() {
     const rolls = [
       0, 0,
       0, 0,
