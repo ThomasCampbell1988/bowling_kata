@@ -1,6 +1,6 @@
 # Bowling Kata
 
-JAvaScript bowling score calculation kata based on https://codingdojo.org/kata/Bowling/.
+JavaScript bowling score calculation kata based on https://codingdojo.org/kata/Bowling/.
 
 ## How to run
 
